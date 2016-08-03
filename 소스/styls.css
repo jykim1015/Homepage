@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+div {
+  font-family: 돋움;
+  border-collapse:collapse;
+  background-color;#FFFFFF;
+  color:#FFFFFF;
+  margin:0px;
+  paddding:1px;
+  color:#000000;
+  line-height: 20px;
+  font-weight: normal;
+  vertical-align: middle;
+  font-size: 10px;
+}
+
+table{
+  font-family: 돋움;
+  border-collapse:collapse;
+}
+
+td{
+  background-color;#FFFFFF;
+  color:#FFFFFF;
+  margin:0px;
+  paddding:1px;
+  border:1px solid green;
+  color:#000000;
+  line-height: 16px;
+  font-weight: normal;
+  vertical-align: middle;
+  font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+input {
+    border: 1px solid #050505;
+    font-family: 돋움;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 1px 1px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    background-color: #f8f8f8;
+    resize: none;
+    font-family: 돋움;
+    font-size: 12px;
+}
+
